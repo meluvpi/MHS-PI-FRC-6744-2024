@@ -171,6 +171,3 @@ out/
 # Simulation GUI and other tools window save file
 *-window.json
 
-
-.vscode/
-/.vscode
